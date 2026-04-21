@@ -1,0 +1,17 @@
+<div class="container">
+
+    <h1>Login</h1>
+
+    <form method="POST">
+
+        <input name="email" class="form-control mb-2" placeholder="Email">
+
+        <input name="password" type="password" class="form-control mb-2" placeholder="Password">
+
+        <button class="btn btn-primary">Login</button>
+
+    </form>
+
+    <a href="?page=register">Create account</a>
+
+</div>
